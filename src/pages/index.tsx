@@ -11,3 +11,5 @@ const CounterPage: React.FC = () => {
 };
 
 export default CounterPage;
+
+//add dynamic routing
